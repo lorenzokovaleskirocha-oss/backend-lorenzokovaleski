@@ -1,3 +1,3 @@
-Feedback - Aula 02 e Aula 03
+# Feedback - Aula 02
 
-Lorenzo, na aula 2 e na aula 3 você não entregou nada, ficou só no commit inicial do template. Nota 0,00 nas duas.
+Lorenzo, o seu repo não teve nenhum commit além do inicial. Falta tudo da aula 2, as cinco rotas do diário de treinos. Preciso fechar as notas até sexta-feira, essa é a janela que você tem. Sem entrega, fica zero.
